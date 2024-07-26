@@ -1,10 +1,8 @@
-# prject name is model here we study about the inheritance 
+# Django Model Inheritance and Custom Managers
 
-## in app inheritance we made in this project where we study about the inheritance 
-1. Abstract base class
-2. multilevel inheritance 
-3. Proxy model
+Welcome to my repository where I document my learning journey on Django model inheritance and custom managers. This project is divided into two main apps: **Inheritance** and **Manager**.
 
+## Project Structure
 
-## in manager app we study about the manager in the model 
-we discuss about custom manager  in manager.py file 
+1. **Inheritance App**: Focuses on various types of model inheritance in Django.
+2. **Manager App**: Explores the creation and usage of custom managers in Django models.
