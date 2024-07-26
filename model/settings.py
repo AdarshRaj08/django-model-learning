@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'inheritance',
     'manager',
+    'OneToOne',
+    'ManyToOne',
+    'ManyToMany',
 ]
 
 MIDDLEWARE = [
